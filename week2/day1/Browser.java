@@ -1,7 +1,5 @@
 package week2.day1;
 
-import org.apache.xmlbeans.impl.xb.xsdschema.Public;
-
 public class Browser
 {
 public String launchBrowser(String browserName)
